@@ -28,7 +28,7 @@ baseurl                  : "/cmst4714-portfolio-template"         # -> ""
 repository               : "annaolszowy27/annaolszowy27.github.io"  # -> "yourusername/yourusername.github.io"
 title                    : "Anna Olszowy Professional Portfolio" # the name shown in the maroon header bar and browser tab
 author:
-  name     : "Robin Hokie"
+  name     : "Anna Olszowy"
   avatar   : "/images/bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
