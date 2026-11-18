@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : "Anna Olszowy: Professional Portfolio"
 description              : >
   Professional portfolio for Anna Olszowy, a Communication major and Professional Sales minor, graduating 
-  from Virginia Tech in May 2027. 
+  from Virginia Tech in May 2027. This wesbite highlights 
 
 # ============================================================
 # EDIT THIS BLOCK — your web address, name, site title, bio, and contact info
@@ -32,9 +32,9 @@ author:
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
   email    : "annao05@vt.edu"
-  github   : "robinhokie"    # username only, no URL — set blank to hide
-  instagram: "robinhokie"    # username only, no URL — set blank to hide
-  linkedin : "robinhokie"    # username only, no URL — set blank to hide
+  github   : ""    # username only, no URL — set blank to hide
+  instagram: ""    # username only, no URL — set blank to hide
+  linkedin : ""    # username only, no URL — set blank to hide
 # ============================================================
 # END EDIT ZONE
 # Academicpages config continues below this point.
