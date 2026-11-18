@@ -12,9 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title_separator          : "-"
 name                     : "Anna Olszowy: Professional Portfolio"
 description              : >
-  Professional portfolio for Anna Olszowy, School of Communication,
-  Virginia Tech, including work from CMST 4714: The Human Communicator in an
-  Era of AI.
+  Professional portfolio for Anna Olszowy, a Communication major and Professional Sales minor, graduating 
+  from Virginia Tech in May 2027. 
 
 # ============================================================
 # EDIT THIS BLOCK — your web address, name, site title, bio, and contact info
@@ -29,7 +28,7 @@ repository               : "annaolszowy27/annaolszowy27.github.io"  # -> "yourus
 title                    : "Anna Olszowy Professional Portfolio" # the name shown in the maroon header bar and browser tab
 author:
   name     : "Anna Olszowy"
-  avatar   : "/images/bio-photo.jpg"
+  avatar   : "bio-photo.jpg"
   bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
   location : "Blacksburg, VA"
   email    : "annao05@vt.edu"
