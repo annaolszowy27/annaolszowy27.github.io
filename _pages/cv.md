@@ -17,9 +17,11 @@ redirect_from:
 ## Education
 
 **Virginia Tech**, Blacksburg, VA
-B.A. in Communication, expected May 2027
-Concentration: Strategic Communication and Digital Media
-Minor: Tech for Humanity
+B.A. Major in Communication, Minor in Professional Sales
+- Cumulative GPA: 3.55/4.0
+- Dean's List, Fall 2023 - Fall 2026
+- Alpha Gamma Upsilon of Lambda Pi Eta (LPH), National Communication Association
+- Expected Graduation: May 2027
 
 ## Professional Experience
 
