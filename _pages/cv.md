@@ -23,7 +23,7 @@ B.A. Major in Communication, Minor in Professional Sales
 - Alpha Gamma Upsilon of Lambda Pi Eta (LPH), National Communication Association
 - Expected Graduation: May 2027
 
-## Professional Experience
+## Experience
 
 **Content Coordinator** — Blacksburg Housing Equity Coalition (2024–present)
 - Write and edit community newsletters, grant narratives, and social media content
