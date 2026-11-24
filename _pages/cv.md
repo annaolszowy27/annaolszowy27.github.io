@@ -44,13 +44,16 @@ B.A. Major in Communication, Minor in Professional Sales
 - Created marketing concepts to help a local start-up business increase brand awareness and social media engagement
 - Captured and edited visual content to promote and convey professional, informative messages through multiple channels
 
-## Skills
+## Certificates/Skills
 
-- Writing and editing for multiple registers and audiences
-- Markdown, GitHub Pages, basic HTML
-- APA and AP style
-- HokieAI, ChatGPT (disclosure-compliant use)
-- Spanish (conversational)
+- Email Marketing Certified - Hubspot Academy, Nov. 2025 - Dec. 2027
+- Inbound Marketing Certified - Hubspot Academy, Oct. 2025 - Nov. 2027
+- SEO and Content Optimization
+- Adobe Lightroom
+- Interpersonal Communication
+- Digital Marketing
+- Television Production and Broadcasting
+- Microsoft Word and Powerpoint 
 
 ## Coursework Represented in This Portfolio
 
@@ -61,11 +64,7 @@ B.A. Major in Communication, Minor in Professional Sales
 - CMST 2074: Interpersonal Communication (Freshman, Spring 2024)
 - CMST 1016: Introduction to Public Speaking (Freshman, Fall 2023)
 
-## Additional Relevant Coursework
 
-- CMST 3224: Communication Theory
-- ENGL 2024: AI and Writing
-- PHIL 1404: Ethics and Technology
 
 <!-- ============================================================ -->
 <!-- END OF EXAMPLE. REPLACE WITH YOUR OWN CV ABOVE THIS LINE.   -->
