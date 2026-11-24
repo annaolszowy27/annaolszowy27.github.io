@@ -35,6 +35,14 @@ B.A. Major in Communication, Minor in Professional Sales
 - Efficiently managed photography sessions and editing schedules while meeting delivery deadlines
 - Utilized software Adobe Lightroom to produce professionally edited photos
 
+**Study Abroad, International Perspectives on Communication, Virginia Tech** - Riva San Vitale, Switzerland (June 2025 - July 2025)
+- Planned and organized trip abroad, accounting for factors of travel such as cost, transportation, lodging, delays, and cultural changes
+- Adapted to new routine and environment while maintaining classes and coursework
+- Developed an understanding of international communication by being immersed in local customs and connecting with people from different backgrounds
+
+**Videographer and Marketing Intern, Movement Sports Performance** - Norfolk, VA (June 2022 - August 2022)
+- Created marketing concepts to help a local start-up business increase brand awareness and social media engagement
+- Captured and edited visual content to promote and convey professional, informative messages through multiple channels
 
 ## Skills
 
