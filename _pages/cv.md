@@ -26,10 +26,9 @@ B.A. Major in Communication, Minor in Professional Sales
 ## Experience
 
 **Production Assistant, HokieVision** — Blacksburg, VA - ACC Network (Feb. 2025 – Present)
-- Write and edit community newsletters, grant narratives, and social media content
-- Developed plain-language guide to housing assistance programs (2,400 words,
-  translated into Spanish with assistance from bilingual staff)
-- Introduced an editorial workflow for AI-assisted drafting with disclosure standards
+- Contributed to the production of over 60+ live television sports broadcasts on the ACC Network and ACCNX for Virginia Tech athletic home games
+- Gained hands-on experience coordinating shows under various roles such as director, technical director, camera operator, assistant director, and show runner
+- Continued to develop strong communication, attention to detail, ability to work well under pressure, adaptability, and fast-paced decision making
 
 **Content Writing Intern** — Roanoke Valley Marketing Group (Summer 2024)
 - Drafted web copy, email campaigns, and blog posts for six regional clients
