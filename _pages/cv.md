@@ -30,7 +30,7 @@ B.A. Major in Communication, Minor in Professional Sales
 - Gained hands-on experience coordinating shows under various roles such as director, technical director, camera operator, assistant director, and show runner
 - Continued to develop strong communication, attention to detail, ability to work well under pressure, adaptability, and fast-paced decision making
 
-**Content Writing Intern** — Roanoke Valley Marketing Group (Summer 2024)
+**Freelance Photographer Self-employed, Chevy Photography** — Blacksburg and Norfolk, VA (June 2024 - Present) 
 - Drafted web copy, email campaigns, and blog posts for six regional clients
 - Participated in agency-wide transition to AI drafting tools; contributed to internal
   style guide update addressing AI-generated content review
