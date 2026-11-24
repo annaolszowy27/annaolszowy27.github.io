@@ -25,7 +25,7 @@ B.A. Major in Communication, Minor in Professional Sales
 
 ## Experience
 
-**Content Coordinator** — Blacksburg Housing Equity Coalition (2024–present)
+**Production Assistant, HokieVision** — Blacksburg, VA - ACC Network (Feb. 2025 – Present)
 - Write and edit community newsletters, grant narratives, and social media content
 - Developed plain-language guide to housing assistance programs (2,400 words,
   translated into Spanish with assistance from bilingual staff)
