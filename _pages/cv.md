@@ -31,9 +31,10 @@ B.A. Major in Communication, Minor in Professional Sales
 - Continued to develop strong communication, attention to detail, ability to work well under pressure, adaptability, and fast-paced decision making
 
 **Freelance Photographer Self-employed, Chevy Photography** — Blacksburg and Norfolk, VA (June 2024 - Present) 
-- Drafted web copy, email campaigns, and blog posts for six regional clients
-- Participated in agency-wide transition to AI drafting tools; contributed to internal
-  style guide update addressing AI-generated content review
+- Coordinated bookings and shoots while communicating with clients clearly about wants and creative visions
+- Efficiently managed photography sessions and editing schedules while meeting delivery deadlines
+- Utilized software Adobe Lightroom to produce professionally edited photos
+
 
 ## Skills
 
